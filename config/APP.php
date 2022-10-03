@@ -8,7 +8,7 @@
 const SERVERURL = "http://localhost/Business/Admin-premiApp/";
 
 //  Global constant for company name
-const COMPANY = "ADMIN PREMI APP";
+const COMPANY = "Admin | PremiApp";
 
 //  Global currency
 const CURRENCY = "$";
