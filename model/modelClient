@@ -1,0 +1,12 @@
+<?php
+require_once "mainModel.php";
+
+class modelClient extends mainModel
+{
+
+    /*---------------- Model add client --------------------*/
+    protected static function model_add_client($data)
+    {
+        $sql = mainModel::connect()->prepare("");
+    }
+}
